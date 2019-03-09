@@ -1,0 +1,32 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+*.dylib
+.DS_Store
+.idea
+*.iml
+*.class
+.classpath
+.project
+.svn
+.settings
+*.log
+CMakeLists.txt
+
+# Folders
+_obj
+_test
+target/
+distribution
+lib
+jars
+logs
+
+# Architecture specific extensions/prefixes
+*.[568vq]
+[568vq].out
+
+*.exe
+*.test
+*.prof
